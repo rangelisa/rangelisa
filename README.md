@@ -1,7 +1,3 @@
-ISABELLA RANGEL
-
-🚀 Backend Developer | Java & Python | Dados & Arquitetura  
-📍 São Paulo, Brasil  
 
 [![LinkedIn](https://www.linkedin.com/in/isabella-rangel-6428082b8/)]
 [![GitHub](https://img.shields.io/badge/GitHub-Repositórios-black?logo=github)](https://github.com/SEU_USUARIO)
