@@ -1,5 +1,4 @@
-
-[![LinkedIn](https://www.linkedin.com/in/isabella-rangel-6428082b8/)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](https://www.linkedin.com/in/isabella-rangel-6428082b8/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repositórios-black?logo=github)](https://github.com/SEU_USUARIO)
 [![Email](https://img.shields.io/badge/Email-Contato-red)](mailto:SEU_EMAIL)
 
